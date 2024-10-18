@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>kpr-kita</title>
+	<title>Bimbingan Kopas</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
-	<description></description>
-	<lastBuildDate>Sun, 13 Oct 2024 06:29:47 +0000</lastBuildDate>
+	<description>Komunitas Pengusaha Sukses</description>
+	<lastBuildDate>Wed, 02 Oct 2024 02:13:04 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
